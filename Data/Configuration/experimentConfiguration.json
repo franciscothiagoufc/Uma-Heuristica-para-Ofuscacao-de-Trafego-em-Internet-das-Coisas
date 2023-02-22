@@ -1,0 +1,6 @@
+{
+    "padding":"OptimizedPadding",
+    "paddingStrategy":"5",
+    "frames":"5",
+    "MTU":"1500"
+}

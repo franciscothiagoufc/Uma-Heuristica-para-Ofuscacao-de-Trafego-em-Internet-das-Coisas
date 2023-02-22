@@ -1,0 +1,18 @@
+--------------2 frames------------
+padding(k) =  299  0    < k <= 299
+padding(k) =  1500  299 < k <= 1500
+--------------3 frames------------
+padding(k) =  128   0    < k <=  128
+padding(k) =  299   128  < k <=  299
+padding(k) =  1500  299  < k <=  1500
+--------------4 frames------------
+padding(k) =  97   0    < k <=  97
+padding(k) =  199  97   < k <=  199
+padding(k) =  559  199  < k <=  559
+padding(k) =  1500 559  < k <=  1500
+--------------5 frames------------
+padding(k) =  99   0  < k <=  99
+padding(k) =  199   99  < k <=  199
+padding(k) =  299   199  < k <=  299
+padding(k) =  901   299  < k <=  901
+padding(k) =  1500   901  < k <=  1500
